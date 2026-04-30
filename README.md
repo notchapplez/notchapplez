@@ -11,7 +11,7 @@
 ## My skills/tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,rust,linux,md, raspberrypi," />
+    <img src="https://skillicons.dev/icons?i=git,github,rust,linux,md,raspberrypi" />
   </a>
 </p>
 <!---
