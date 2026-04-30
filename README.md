@@ -8,6 +8,12 @@
 
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=3504&api_domain=hackatime.hackclub.com&theme=default&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8">
 
+## My skills/tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,rust,linux,md, raspberrypi," />
+  </a>
+</p>
 <!---
 notchapplez/notchapplez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
